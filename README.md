@@ -1,5 +1,13 @@
 # NN-Project
+Menglu Li
+
+menglu.li@ryerson.ca
+
+500989626
+
 A individual project for Neural Network course
+
+
 ### PROBLEM STATEMENT 
 The goal of this research is to perform sentiment analysis for customer reviews and to predict a rating score for a restaurant based on the review analysis. The previous works on sentiment classiﬁcation, such as using NLTK (Natural Language Toolkit) sentiment classiﬁer, may not always get a satisfactory performance [1]. Therefore, a deep learning-based sentiment analysis model is proposed to achieve a higher prediction accuracy rate of rating score. In this project, I selected three types of Neural Network (NN): Feed Forward Neural Network, Convolutional Neural Network, and Recurrent Neural Network. All these three NN models are applied on the same textual review dataset to perform the rating prediction, and their prediction results are compared and evaluated. I also observed how the dimension of embedding layer impact the prediction performance by applying different dimensions of pre-trained word vector in each type of NN.
 
